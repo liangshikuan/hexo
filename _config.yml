@@ -141,9 +141,9 @@ theme: hexo-theme-autumn
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
-  repo: 
-  branch: 
+  type: git 
+  repo: git@github.com:liangshikuan/1024bit.github.io.git
+  branch: master
 
 
 # img CDN path
